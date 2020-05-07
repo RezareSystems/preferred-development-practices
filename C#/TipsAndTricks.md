@@ -1,4 +1,4 @@
-# Tip & Tricks
+# Tips & Tricks
 
 ## Updating dotnet framework
 
